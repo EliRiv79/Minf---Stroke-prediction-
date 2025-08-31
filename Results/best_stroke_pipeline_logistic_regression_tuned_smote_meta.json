@@ -1,0 +1,22 @@
+{
+  "model_name": "Logistic Regression",
+  "saved_at": "2025-07-27T13:59:58",
+  "features": [
+    "gender",
+    "age",
+    "hypertension",
+    "heart_disease",
+    "ever_married",
+    "work_type",
+    "Residence_type",
+    "avg_glucose_level",
+    "bmi",
+    "smoking_status"
+  ],
+  "versions": {
+    "python": "3.13.2",
+    "sklearn": "1.6.1",
+    "imblearn": "0.13.0",
+    "shap": "0.48.0"
+  }
+}
